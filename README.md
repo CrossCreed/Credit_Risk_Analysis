@@ -57,3 +57,7 @@ _(Over Sampling, Under Sampling, SMOTEENN Sampling, Balanced Random Forest Class
 ### Credit_Risk_Analysis Summary
 ___
 
+The Easy Ensemble AdaBoost Classifier had the highest accuracy rate at 94.28% over all other models. It also had a 7% precision rate for high_risk customers. 
+Out of all the presented models, the client (bank/lending company) should feel most confident in using the Easy Ensemble AdaBoost Clasifier when selecting potential customers as this model has the highest accuracy out of all 5 models, with the highest precision as well as sensitivity.
+It is nice to keep in mind however that other options/models can be explored. Although the metrics for this model are good, 7% precision rate might not be as high as a model could get with its predicion of high_risk customers. 
+
